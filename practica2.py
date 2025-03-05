@@ -20,7 +20,7 @@ def on_key_press(event):
         label.config(text=f"Tecla presionada: {event.keysym}")
 
 root = tk.Tk()
-root.title("Practica 2, por Emiliano Patrón")
+root.title("Practica 2")
 root.geometry("400x300")
 
 label = tk.Label(root, text="Eventos capturados aparecerán aquí", font=("Arial", 12))
