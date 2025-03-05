@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 app = tk.Tk()
-app.title("Práctica 1 por Emiliano Patrón")
+app.title("Práctica 1")
 app.geometry("600x300")
 app.configure(bg="darkorange")
 
