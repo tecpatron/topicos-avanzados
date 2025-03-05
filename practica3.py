@@ -29,7 +29,7 @@ def limpiar():
 
 
 ventana = tk.Tk()
-ventana.title("Formulario con Validaciones, por Emiliano Patrón")
+ventana.title("Formulario con Validaciones")
 ventana.geometry("350x300")
 ventana.configure(bg="darkorange")
 
